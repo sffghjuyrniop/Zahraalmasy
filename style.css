@@ -1,0 +1,32 @@
+body {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box{
+	width: 90%;
+	height: 300px;
+	margin-left: 44px;
+	margin-top: 835px;
+	position: relative;
+}
+.pho{
+	margin-top: 22px;
+	margin-left: 53px;
+}
+.item{
+	position: absolute;
+	width: 220px;
+	height: 220px;
+}
+.ins {
+	top: 70px;
+	left: 238px;
+}
+.tel{
+	left: 417px;
+}
+.wat{
+	top: 65px;
+	left: 607px;
+}
